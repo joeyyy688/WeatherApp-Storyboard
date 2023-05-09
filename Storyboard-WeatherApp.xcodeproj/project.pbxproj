@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0484309C2A0B060600AAD283 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0484309B2A0B060600AAD283 /* README.md */; };
 		04C42F3C2A0A853F0003CDA8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C42F3B2A0A853F0003CDA8 /* AppDelegate.swift */; };
 		04C42F3E2A0A853F0003CDA8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C42F3D2A0A853F0003CDA8 /* SceneDelegate.swift */; };
 		04C42F402A0A853F0003CDA8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C42F3F2A0A853F0003CDA8 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0484309B2A0B060600AAD283 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		04C42F382A0A853F0003CDA8 /* Storyboard-WeatherApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Storyboard-WeatherApp.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		04C42F3B2A0A853F0003CDA8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04C42F3D2A0A853F0003CDA8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				04C42F442A0A85400003CDA8 /* Assets.xcassets */,
 				04C42F462A0A85400003CDA8 /* LaunchScreen.storyboard */,
 				04C42F492A0A85400003CDA8 /* Info.plist */,
+				0484309B2A0B060600AAD283 /* README.md */,
 			);
 			path = "Storyboard-WeatherApp";
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				04C42F482A0A85400003CDA8 /* LaunchScreen.storyboard in Resources */,
 				04C42F452A0A85400003CDA8 /* Assets.xcassets in Resources */,
+				0484309C2A0B060600AAD283 /* README.md in Resources */,
 				04C42F432A0A853F0003CDA8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
